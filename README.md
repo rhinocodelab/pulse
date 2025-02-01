@@ -1,6 +1,7 @@
+![Pulse Log Logo](Pulse.png)
 # **Pulse: Secure and Efficient Log Management for Linux Systems**
 
-**LogPulse** is a robust and scalable log management solution designed for Linux-based systems. It provides real-time log collection, secure transmission, and insightful visualization for better system monitoring and troubleshooting.
+**Pulse** is a robust and scalable log management solution designed for Linux-based systems. It provides real-time log collection, secure transmission, and insightful visualization for better system monitoring and troubleshooting.
 
 ## 🚀 **Key Features**
 
