@@ -1,4 +1,4 @@
-![Pulse Log Logo](Pulse.png)
+<img src="Pulse.png" alt="Pulse Log Logo" width="200"/>
 # **Pulse: Secure and Efficient Log Management for Linux Systems**
 
 **Pulse** is a robust and scalable log management solution designed for Linux-based systems. It provides real-time log collection, secure transmission, and insightful visualization for better system monitoring and troubleshooting.
