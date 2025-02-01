@@ -1,4 +1,4 @@
-# **LogPulse: Secure and Efficient Log Management for Linux Systems**
+# **Pulse: Secure and Efficient Log Management for Linux Systems**
 
 **LogPulse** is a robust and scalable log management solution designed for Linux-based systems. It provides real-time log collection, secure transmission, and insightful visualization for better system monitoring and troubleshooting.
 
@@ -13,7 +13,7 @@
 ## 🔧 **Components**
 
 1. **pulsectl (Node Agent CLI):** A lightweight, secure CLI tool for node registration, log management, and communication with the LogPulse server.
-2. **LogPulse API Server:** Handles log aggregation, storage, and visualization.
+2. **Pulse API Server:** Handles log aggregation, storage, and visualization.
 
 ## 🛡️ **Security**
 
@@ -30,7 +30,7 @@
 
 ### **Prerequisites**
 - Linux-based operating system
-- Python 3.8+ (for the LogPulse server)
+- Python 3.8+ (for the Pulse server)
 - Go 1.18+ (for `pulsectl` CLI)
 
 ### **Installation**
@@ -77,7 +77,7 @@ go build -o pulsectl
 ## 🛠️ **Project Structure**
 ```
 LogPulse/
-├── api_server/    # LogPulse API Server source code
+├── api_server/    # Pulse API Server source code
 ├── pulsectl/      # Node Agent CLI tool source code
 ├── docs/          # Documentation files
 └── README.md      # Project documentation
